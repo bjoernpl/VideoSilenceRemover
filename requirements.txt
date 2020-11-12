@@ -1,0 +1,4 @@
+soundfile
+ipywidgets
+ipyfilechooser
+tqdm
