@@ -1,0 +1,3 @@
+[submodule "pyAudioAnalysis"]
+	path = pyAudioAnalysis
+	url = https://github.com/tyiannak/pyAudioAnalysis
