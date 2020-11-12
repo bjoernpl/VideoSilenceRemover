@@ -1,5 +1,6 @@
+![VideoSilenceRemover](https://socialify.git.ci/bjoernpl/VideoSilenceRemover/image?description=1&descriptionEditable=Automatically%20cut%20video%20into%20segments%20containing%20speech%20while%20removing%20silence.&language=1&owner=1&pattern=Signal&theme=Dark)
 # VideoSilenceRemover
-### Automatically cut video into segements containing speech while removing silence.
+### Automatically cut video into segments containing speech while removing silence.
 
 This repo contains a Jupyter Notebook which demonstrates the combination
 of [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) and [FFmpeg](https://ffmpeg.org/)
